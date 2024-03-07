@@ -1,3 +1,2 @@
 # WebsiteResume
--This website was created to showcase my skills as a programmer and to create an exciting way for people to read my resume
--My goal for this website is to also deploy onto microsoft azure once the project is fully complete. .
+-This website was created to showcase my skills as a programmer and to create an exciting way for people to read my resume. My goal for this website is to also deploy onto microsoft azure once the project is fully complete. I have plans of constantly improving my website as I continue to work on more projects. The website contains an "about", "projects","experience" and "education." As I continue to grow as a programmer, this website will demonstrate my skills such as applying SQL or PHP to the website. I hope that when you can use my website as inspiration to build your own and let programming be a way to reveal your personality. If you have any advice on how to improve, please feel free to comment. THANK YOU FOR YOUR TIME! 
